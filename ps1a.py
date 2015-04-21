@@ -1,4 +1,4 @@
-# Problem Set 1 
+# Problem Set 2 
 # Name: Natalia Prósińska
 # Collaborators: Małgorzata Metryka 
 # Time Spent: 3:00
